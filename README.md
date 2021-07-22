@@ -13,7 +13,8 @@
 
 # Syllabus for "Fundamentals of Digital Archeology"
 * **Course:** [COSCS-445/COSCS-545]
-* **  Zoom link above  **
+* **  MK525 and Zoom link above  **
+* **  TTh 3:40-5:55
 * **Instructor:** Audris Mockus, [audris@utk.edu](mailto:audris@utk.edu) office hours - upon request
 * **TA:** TBD office hours - upon request
 * [** Syllabus **](https://github.com/fdac21/news/blob/master/course.pdf)
