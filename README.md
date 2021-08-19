@@ -1,4 +1,15 @@
 
+
+# Class on Aug 19
+   - Create your github account 
+      - fork repo students 
+      - create your utid.md file providing your name and interests:
+        see per fdac21/students/README.md, and also provide your
+        utid.key with your public ssh key. Once done, please
+	  - submit a pull request to fdac21/students
+   - Make sure you do it a day before the next class so we can start ready
+
+
 # Information for remote participation via Zoom
    - Join from a PC, Mac, iPad, iPhone or Android device:
       Please click this URL to start or join. https://tennessee.zoom.us/j/2766448345
