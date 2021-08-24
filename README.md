@@ -1,4 +1,13 @@
 
+# Class on Aug 24
+   - Please accept your invitation to fdac21 organization 
+   - If you have not done so yet, please:
+      - fork repo students 
+      - create your utid.md file providing your name and interests:
+        see per fdac21/students/README.md, and also provide your
+        utid.key with your public ssh key. Once done, please
+	  - submit a pull request to fdac21/students
+   - Introductory lecture
 
 # Class on Aug 19
    - Create your github account 
