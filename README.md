@@ -1,6 +1,6 @@
 
 # Class on Aug 24
-   - Please accept your invitation to fdac21 organization 
+   - Please accept your [invitation to fdac21 organization](https://github.com/orgs/fdac21)
    - If you have not done so yet, please (ahillhou,jmuncy2,lgonzal6,psherri1):
       - fork repo students 
       - create your utid.md file providing your name and interests:
