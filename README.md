@@ -1,14 +1,18 @@
 
+# Class on Aug 26
+   - [Follow instructions](https://github.com/fdac21/news/blob/master/Preliminary.md)
+
 # Class on Aug 24
    - Please accept your [invitation to fdac21 organization](https://github.com/orgs/fdac21) while logged in to GH via handle you used to submit pull request
-   - If you have not done so yet, please (ahillhou,jmuncy2):
+   - If you have not done so yet, please accept github fdac21 invitation (ahillhou)
+   - then 
       - fork repo students 
       - create your utid.md file providing your name and interests:
         see per fdac21/students/README.md, and also provide your
         utid.key with your public ssh key. Once done, please
 	  - submit a pull request to fdac21/students
-      - still missing.md files for ahillhou, jmuncy2
-   - Introductory lecture
+      - still missing.md files: ahillhou, jmuncy2
+   - [Introductory lecture](https://github.com/orgs/fdac21/lectures/blob/master/prelim.pdf)
 
 # Class on Aug 19
    - Create your github account 
