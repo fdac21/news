@@ -1,3 +1,12 @@
+# Class on Sep 2
+   - Class will be online becauseparking lots need to be empty by 3PM and building will be locked!
+   
+# Class on Aug 31
+   - Think about selecting the course project (see course projects for the last six years at fdac20, fdac19, fdac18, fdac17, fdac16, fdac for inspiration)
+   - Will finish/resolve any issues with Practice0
+   - See the simple text analysis (TBD) of your descriptions
+   - Introducing the MiniProject1 process and template
+   - [Magic of Internet](https://github.com/fdac21/lectures/blob/master/magic.pdf)
 
 # Class on Aug 26
    - [Follow instructions to make sure your ssh is set up to connect to your docker container](https://github.com/fdac21/news/blob/master/Preliminary.md)
