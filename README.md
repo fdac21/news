@@ -1,6 +1,17 @@
 
 # Class on Aug 26
-   - [Follow instructions](https://github.com/fdac21/news/blob/master/Preliminary.md)
+   - [Follow instructions to make sure your ssh is set up to connect to your docker container](https://github.com/fdac21/news/blob/master/Preliminary.md)
+   - Work on fdac20/Practice0: due before class on Aug 31
+      - It involves 
+         - forking
+         - ssh and clone to your docker container
+         - rename the notebook on your container
+         - completing notebook in your browser (while connected to yor container)
+         - adding/commiting/pushing from your container
+         - creating pull request from your fork
+      - If you need a refresher on unix tools: [edX on unix for data science](https://www.edx.org/course/unix-tools-data-software-and-production-engineering)
+   - [Critical Tools](https://github.com/fdac21/lectures/blob/master/tools.pdf)
+   - [Version Control](https://github.com/fdac20/lectures/blob/master/version_control-FDAC.pdf)
 
 # Class on Aug 24
    - Please accept your [invitation to fdac21 organization](https://github.com/orgs/fdac21) while logged in to GH via handle you used to submit pull request
