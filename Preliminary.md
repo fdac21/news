@@ -34,11 +34,11 @@ request as the work is still in-progress if you are stuck and want
 to ask a question – just mention `@audris` with the question to make
 sure I know to look at it sooner.
 
-## Initial setup: to be done by Aug 27 on or after Aug 24
+## Initial setup: to be done on/by Aug 26 on
 
 
 ## Configuring ssh 
-  * On linux/mac either 
+  * On linux/mac
      * create .ssh/config
     	1. create ~/.ssh/config
         ```
