@@ -34,7 +34,7 @@
         utid.key with your public ssh key. Once done, please
 	  - submit a pull request to fdac21/students
       - still missing.md files: ahillhou, jmuncy2
-   - [Introductory lecture](https://github.com/orgs/fdac21/lectures/blob/master/prelim.pdf)
+   - [Introductory lecture](https://github.com/fdac21/lectures/blob/master/prelim.pdf)
 
 # Class on Aug 19
    - Create your github account 
