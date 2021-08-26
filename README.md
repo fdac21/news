@@ -1,23 +1,24 @@
 # Class on Sep 2
-   - Class will be online becauseparking lots need to be empty by 3PM and building will be locked!
+   - Class will be online-only (see zoom info) because parking lots need to be empty by 3PM and building will be locked!
    
 # Class on Aug 31
+   - Class will be online-only (see zoom info)
    - Think about selecting the course project (see course projects for the last six years at fdac20, fdac19, fdac18, fdac17, fdac16, fdac for inspiration)
    - Will finish/resolve any issues with Practice0
    - See the simple text analysis (TBD) of your descriptions
    - Introducing the MiniProject1 process and template
    - [Magic of Internet](https://github.com/fdac21/lectures/blob/master/magic.pdf)
 
-# Class on Aug 26 !!In-person class is cancelled for today!!
-   - In-person class is cancelled for today. Please go over the following steps
+# Class on Aug 26 !!Class is cancelled today!!
+   - Class is cancelled for today. Please go over the following steps
    - [Follow instructions to make sure your ssh is set up to connect to your docker container](https://github.com/fdac21/news/blob/master/Preliminary.md)
    - Work on fdac20/Practice0: due before class on Aug 31
       - It involves 
          - forking
          - ssh and clone to your docker container
          - rename the notebook on your container
-         - completing notebook in your browser (while connected to yor container)
-         - adding/commiting/pushing from your container
+         - completing notebook in your browser (while connected to your container)
+         - adding/committing/pushing from your container
          - creating pull request from your fork
       - If you need a refresher on unix tools: [edX on unix for data science](https://www.edx.org/course/unix-tools-data-software-and-production-engineering)
    - Read [Critical Tools](https://github.com/fdac21/lectures/blob/master/tools.pdf)
