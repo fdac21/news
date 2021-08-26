@@ -12,7 +12,7 @@
 # Class on Aug 26 !!Class is cancelled today!!
    - Class is cancelled for today. Please go over the following steps
    - [Follow instructions to make sure your ssh is set up to connect to your docker container](https://github.com/fdac21/news/blob/master/Preliminary.md)
-   - Work on fdac20/Practice0: due before class on Aug 31
+   - Work on [fdac21/Practice0](https://github.com/fdac21/Practice0): due before class on Aug 31
       - It involves 
          - forking
          - ssh and clone to your docker container
