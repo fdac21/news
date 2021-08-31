@@ -1,13 +1,15 @@
 # Class on Sep 2
    - Class will be online-only (see zoom info) because parking lots need to be empty by 3PM and building will be locked!
-   
-# Class on Aug 31
-   - Class will be online-only (see zoom info)
-   - Think about selecting the course project (see course projects for the last six years at fdac20, fdac19, fdac18, fdac17, fdac16, fdac for inspiration)
-   - Will finish/resolve any issues with Practice0
    - See the simple text analysis (TBD) of your descriptions
    - Introducing the MiniProject1 process and template
+   
+# Class on Aug 31: Class will be online-only (see zoom info below)
+   - We will finish/resolve any issues with Practice0
    - [Magic of Internet](https://github.com/fdac21/lectures/blob/master/magic.pdf)
+   - Think about selecting the course project (see course projects for the last six years at fdac20, fdac19, fdac18, fdac17, fdac16, fdac for inspiration)   
+   - Read [Critical Tools](https://github.com/fdac21/lectures/blob/master/tools.pdf)
+   - Read [Version Control](https://github.com/fdac21/lectures/blob/master/version_control-FDAC.pdf)
+   - If you need a refresher on unix tools: [edX on unix for data science](https://www.edx.org/course/unix-tools-data-software-and-production-engineering)
 
 # Class on Aug 26 !!Class is cancelled today!!
    - Class is cancelled for today. Please go over the following steps
@@ -20,9 +22,6 @@
          - completing notebook in your browser (while connected to your container)
          - adding/committing/pushing from your container
          - creating pull request from your fork
-      - If you need a refresher on unix tools: [edX on unix for data science](https://www.edx.org/course/unix-tools-data-software-and-production-engineering)
-   - Read [Critical Tools](https://github.com/fdac21/lectures/blob/master/tools.pdf)
-   - Read [Version Control](https://github.com/fdac21/lectures/blob/master/version_control-FDAC.pdf)
 
 # Class on Aug 24
    - Please accept your [invitation to fdac21 organization](https://github.com/orgs/fdac21) while logged in to GH via handle you used to submit pull request
