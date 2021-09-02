@@ -1,7 +1,12 @@
-# Class on Sep 2
-   - Class will be online-only (see zoom info) because parking lots need to be empty by 3PM and building will be locked!
+# Class on Sep 7
+   - Class will be online-only (see zoom info below)
    - See the simple text analysis (TBD) of your descriptions
    - Introducing the MiniProject1 process and template
+
+# Class on Sep 2
+   - Class will be online-only (see zoom info) because parking lots need to be empty by 3PM and building will be locked!
+   - [Critical Tools](https://github.com/fdac21/lectures/blob/master/tools.pdf)
+   - [Version Control](https://github.com/fdac21/lectures/blob/master/version_control-FDAC.pdf)
    
 # Class on Aug 31: Class will be online-only (see zoom info below)
    - We will finish/resolve any issues with Practice0
