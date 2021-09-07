@@ -1,7 +1,13 @@
+# Class on Sep 9
+   - Class will be online-only (see zoom info below)
+   - Boasters for class project
+   - Question regarding MP1
+   
 # Class on Sep 7
    - Class will be online-only (see zoom info below)
-   - See the simple [text analysis]() of your descriptions
+   - See the simple [text analysis](https://github.com/fdac21/students/blob/master/TeamingAnalysis.ipynb) of your descriptions
    - Introducing the MiniProject1 process and template
+   - Boasters for class project
 
 # Class on Sep 2
    - Class will be online-only (see zoom info) because parking lots need to be empty by 3PM and building will be locked!
