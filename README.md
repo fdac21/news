@@ -1,6 +1,6 @@
 # Class on Sep 7
    - Class will be online-only (see zoom info below)
-   - See the simple text analysis (TBD) of your descriptions
+   - See the simple [text analysis]() of your descriptions
    - Introducing the MiniProject1 process and template
 
 # Class on Sep 2
