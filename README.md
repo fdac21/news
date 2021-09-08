@@ -1,3 +1,12 @@
+# Class on Sep 16
+   - Finish boasters/organize into teams
+   - Start writing project proposals
+   - Submit final version of Miniproject1
+
+# Class on Sep 14
+   - Practice presentations within groups: please either come in person or participate remotely. Please organize communications (if remote) within each group.
+   - Please do not forget to select one presentation from each group to be presented for the entire class (https://github.com/fdac21/Miniproject1/issues/1)
+
 # Class on Sep 9
    - Class will be online-only (see zoom info below)
    - Boasters for class project
