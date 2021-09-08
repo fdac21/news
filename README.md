@@ -9,7 +9,8 @@
 
 # Class on Sep 9
    - Class will be online-only (see zoom info below)
-   - Make sure you have 
+   - Make sure you have
+  
         a. Forked fdac21/Miniproject1
 	b. Posted the idea for your analysis on your peer's fork
 	c. Responded to the idea that was posted by your peer
