@@ -3,7 +3,7 @@
    - Start writing project proposals
    - Submit final version of Miniproject1
 
-# Class on Sep 14
+# Class "on Sep 14" feel free to set up a time with your sub-team before Sept 16 to
    - Practice presentations within groups: please either come in person or participate remotely. Please organize communications (if remote) within each group.
    - Please do not forget to select one presentation from each group to be presented for the entire class (https://github.com/fdac21/Miniproject1/issues/1)
 
