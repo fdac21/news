@@ -1,7 +1,11 @@
-# Class on Sep 16
-   - Finish boasters/organize into teams
+# Class on Sep 21 (in person class, please attend in person if you can)
+   - Miniproject1 presentations selected on Sept 14
    - Start writing project proposals
+
+# Class on Sep 16 (zoom class)
+   - Finish boasters/organize into teams
    - Submit final version of Miniproject1
+   - Issues
 
 # Class "on Sep 14" feel free to set up a time with your sub-team before Sept 16 to
    - Practice presentations within groups: please either come in person or participate remotely. Please organize communications (if remote) within each group.
