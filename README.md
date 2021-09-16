@@ -1,5 +1,5 @@
 # Class on Sep 21 (in person class, please attend in person if you can)
-   - Miniproject1 presentations selected on Sept 14
+   - Miniproject1 presentations selected on Sept 14: be ready to share it from your zoom session (if possible in-class) so that I can display on the board, record, share with students who could not come, and, most importantly, avoid the pain of hooking up cables.  
    - Start writing project proposals
 
 # Class on Sep 16 (zoom class)
