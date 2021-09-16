@@ -3,7 +3,7 @@
    - Start writing project proposals
 
 # Class on Sep 16 (zoom class)
-   - Finish boasters/organize into teams
+   - Finish boasters (I see only four teams so far: need 12+more)/organize into teams
    - Submit final version of Miniproject1
    - Issues
 
