@@ -1,7 +1,25 @@
+# Class on Sep 28
+   - Final project proposals are due at the end of the class
+   - The group needs to submit a project proposal (1.5-2 pages in IEEE format (see https://www.overleaf.com/latex/templates/preparation-of-papers-for-ieee-sponsored-conferences-and-symposia/zfnqfzzzxghk).
+   - The proposal should provide
+         an objective
+         a brief motivation for the project,
+         detailed discussion of the data that will be obtained or used in the project,
+         responsibilities of each member, along with
+         a time-line of milestones, and
+         the expected outcome
+   - The proposal pdf will be committed to fdac21/ProjectName/proposal.pdf
+
+# Class on Sep 23
+   - Lecture on data discovery and data storing (databases).
+   - Introducing Miniproject2
+   - Work on project proposal
+
 # Class on Sep 21 (in person class, please attend in person if you can)
    - Miniproject1 presentations selected on Sept 14: be ready to share it from your zoom session (if possible in-class) so that I can display on the board, record, share with students who could not come, and, most importantly, avoid the pain of hooking up cables.  
    - The presentations will go in group order (the representative from the first group, the second group...)
-   - Start writing project proposals
+   - Teams formed (create fdac21/ProjectName repo and a team of the same name; invite members of the team)
+   - Start brainstorming/writing final project proposal (see Sep 28 deadline)
 
 # Class on Sep 16 (zoom class)
    - Finish boasters (I see only four teams so far: need 12+more)/organize into teams
