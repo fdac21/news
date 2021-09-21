@@ -19,7 +19,9 @@
 # Class on Sep 21 (in person class, please attend in person if you can)
    - Miniproject1 presentations selected on Sept 14: be ready to share it from your zoom session (if possible in-class) so that I can display on the board, record, share with students who could not come, and, most importantly, avoid the pain of hooking up cables.  
    - The presentations will go in group order (the representative from the first group, the second group...)
-   - Teams formed (create fdac21/ProjectName repo and a team of the same name; invite members of the team)
+   - Teams formed 
+       - I created fdac21/ProjectName repo and a team of the same name - please let me know if your project is missing or if you are not in  project yet
+       - I added the boaster creator as a member of the team: please invite the remaining members of the team)
    - Start brainstorming/writing final project proposal (see Sep 28 deadline)
 
 # Class on Sep 16 (zoom class)
