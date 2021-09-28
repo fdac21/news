@@ -1,3 +1,7 @@
+# Class on Oct 5
+   - Miniproject2 is due at the end of the class
+   - Introducing GCP
+
 # Class on Sep 28
    - Final project proposals are due at the end of the class
    - The group needs to submit a project proposal (1.5-2 pages in IEEE format (see https://www.overleaf.com/latex/templates/preparation-of-papers-for-ieee-sponsored-conferences-and-symposia/zfnqfzzzxghk).
@@ -10,6 +14,7 @@
          a time-line of milestones, and
          the expected outcome
    - The proposal pdf will be committed to fdac21/ProjectName/proposal.pdf
+   - Questions on proposal and MP2
 
 # Class on Sep 23
    - Lecture on data discovery and data storing (databases).
