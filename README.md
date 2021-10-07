@@ -1,3 +1,7 @@
+# Class on Oct 7
+   - Questions on gcp
+   - Work on final projects
+
 # Class on Oct 5
    - Miniproject2 is due at the end of the class
    - Introducing GCP
