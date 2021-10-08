@@ -2,7 +2,7 @@
    - Questions on gcp
    - Introducing MP3
    - Work on final projects
-   - Still missing/too few for MP2: ahughe51=0, amalviya=0, astjohn1=4, bmingled=0, cukaegbu=8, fxie6=0, fxu11=0, hkitts2=0, jcarmac3=0, jhammer2=0, jmatloc1=0, jmuncy2=0, jnotowic=0, kpatel87=9, mmohandi=0, mmuszik1=0, moliaee2=0, mxw557=0, ppatel91=0, rstewa35=0, shwang6=0, spatel91=0, sxue3=0, tainley=0, wjohns53=1
+   - Still missing/too few for MP2: ahughe51=0, astjohn1=4, cukaegbu=8, fxu11=0,  jhammer2=0, jmatloc1=0, jmuncy2=0,  mmohandi=0, mmuszik1=0, moliaee2=0, mxw557=0,  rstewa35=0,  spatel91=0, sxue3=0, tainley=0
 
 # Class on Oct 5
    - Miniproject2 is due at the end of the class
