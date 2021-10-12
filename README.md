@@ -129,7 +129,7 @@
 * **  MK404 and Zoom link above  **
 * **  TTh 4:30-5:45
 * **Instructor:** Audris Mockus, [audris@utk.edu](mailto:audris@utk.edu) office hours - upon request
-* **TA:** James Hammer and Dylan Lomax. Office hours - upon request
+* **TA:** James Hammer (jhammer3) and Dylan Lomax (dlomax). Office hours - upon request
 * * [** Syllabus **](https://github.com/fdac21/news/blob/master/course.pdf)
 * **Need help?**
 
