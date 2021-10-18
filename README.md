@@ -1,3 +1,6 @@
+# Class on Oct 19
+   - no class due to engineering day: join if you are not done with your MP2/3, or have any questions
+    
 # Class on Oct 14
    - Work on final projects
    - If there are any, I will answer questions on gcp, MP3
