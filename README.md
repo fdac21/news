@@ -1,8 +1,8 @@
 # Class on Oct 14
    - Work on final projects
    - If there are any, I will answer questions on gcp, MP3
-   - as of Oct 15, 18:30 status for MP3: abanks19=0,ahende39=0,ahughe51=0,amalviya=0,asuther8=764,avo5=0,bperosa=0,cukaegbu=0,dlomax=0,dschult9=0,fxie6=0,hkitts2=0,jhamil53=0,jmatloc1=0,jmoczadl=0,jmuncy2=0,jnotowic=0,mmohandi=0,mmuszik1=0,moliaee2=0,mxw557=0,plin5=0,ppatel91=0,psherri1=597,rbray2=0,rstewa35=0,shwang6=0,spatel91=0,tainley=0,tflorey=0,yli53=0
-
+   - as of Oct 17, 20:55 status for MP3: abanks19=0,ahughe51=0,asuther8=764,avo5=0,dlomax=0,dschult9=0,fxie6=0,hkitts2=0,jmatloc1=0,jmoczadl=0,jmuncy2=0,jnotowic=0,mmohandi=0,mmuszik1=0,mxw557=0,plin5=0,ppatel91=0,psherri1=597,rbray2=0,rstewa35=0,shwang6=0,spatel91=0,tainley=0,tflorey=0,yli53=0
+   -
 # Class on Oct 12
    - Questions on MP2, gcp, MP3
    - Work on final projects
