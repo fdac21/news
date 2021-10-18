@@ -1,3 +1,8 @@
+# Class on Oct 21
+   - Introducing Miniproject 3 part B
+   - Questions
+   - Work on final project 
+
 # Class on Oct 19
    - no class due to engineering day: join if you are not done with your MP2/3, or have any questions
     
