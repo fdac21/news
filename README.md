@@ -1,3 +1,7 @@
+# Classes on Oct 26 and 28
+   - work on final project
+   - I'll ansver questions provide help with gcp/MP3 
+
 # Class on Oct 21
    - Introducing Miniproject 3 part B
    - MP3 Part A is not finished by (on Oct 20 at 23:11): abanks19=0,ahughe51=0,avo5=0,dlomax=0,dschult9=0,fxie6=0,hkitts2=0,jmatloc1=0,jmuncy2=0,mmohandi=0,mxw557=0,plin5=0,psherri1=597,rbray2=0,rstewa35=0,shwang6=0,spatel91=0,tainley=0,yli53=0
