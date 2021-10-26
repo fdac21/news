@@ -1,7 +1,7 @@
 # Classes on Oct 26 and 28
    - MP3C due Oct 28
    - work on final project
-   - I'll ansver questions provide help with gcp/MP3 
+   - I'll answer questions/provide help with gcp/MP3 
    - Missing Miniproject 3 part B: ahughe51=0,avo5=0,dschult9=0,hkitts2=0,jmatloc1=0,jmuncy2=0,mmohandi=0,psherri1=597,rstewa35=0,shwang6=0,spatel91=0,tainley=0,yli53=0
    - Missing Miniproject 3 part A: ahughe51=0, jhammer3=0, jmatloc1=0, jmuncy2=0, rstewa35=1, spatel91=0
    - Missing Miniproject 3 part C: abanks19
