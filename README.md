@@ -25,8 +25,6 @@ hkitts2
 jhammer3
 jhills
 jmatloc1
-jmuncy2
-kleland
 mmohandi
 mmuszik1
 mrm634
@@ -40,7 +38,6 @@ reehsemm
 rrusitan
 rstewa35
 rwill148
-showel17
 spatel91
 tainley
 tflorey
