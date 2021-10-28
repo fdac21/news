@@ -1,3 +1,8 @@
+# Classes on Nov 2
+   - Introduce MP3C
+   - Questions
+   - Work on final projects
+   -
 # Classes on Oct 26 and 28
    - MP3C=B due Oct 28
    - work on final project
