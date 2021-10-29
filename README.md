@@ -19,7 +19,6 @@ dmaioran
 dschult9
 fxie6
 fxu11
-gbrown39
 hkitts2
 jhammer3
 jhills
@@ -38,6 +37,7 @@ spatel91
 tainley
 wcoar
 yli53
+
 
 # Class on Oct 21
    - Introducing Miniproject 3 part B
