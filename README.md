@@ -7,13 +7,12 @@
    - MP3C=B due Oct 28
    - work on final project
    - I'll answer questions/provide help with gcp/MP3 
-   - Missing Miniproject 3 part A: avo5=0,dschult9=0,hkitts2=0,jmatloc1=820,mmohandi=0,psherri1=597,rstewa35=0,spatel91=0,tainley=0
+   - Missing/Incomplete Miniproject 3 part A: dschult9=0,hkitts2=0,jmatloc1=820,mmohandi=0,psherri1=597,rstewa35=0,spatel91=0,tainley=0
    - Missing Miniproject 2: ahughe51=0, rstewa35=1, spatel91=0
-   - Missing Miniproject 3 part B: abanks19
+   - Missing Miniproject 3 part B:abanks19
 ahende39
 ahughe51
 asuther8
-avo5
 azou
 dlomax
 dmaioran
@@ -26,22 +25,17 @@ jhammer3
 jhills
 jmatloc1
 mmohandi
-mmuszik1
 mrm634
 mxw557
-plin5
 ppatel91
 psherri1
 pvelas
 rbray2
 reehsemm
-rrusitan
 rstewa35
 rwill148
 spatel91
 tainley
-tflorey
-tnguye85
 wcoar
 yli53
 
