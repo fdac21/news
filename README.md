@@ -1,5 +1,6 @@
 # Classes on Nov 4
    - Introduce MP3C
+   - Please comment on issue #9 regarding your preferred project presentation
 
 # Classes on Nov 2
    - Questions
