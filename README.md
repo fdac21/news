@@ -2,18 +2,12 @@
    - Introduce MP3C
    - Questions
    - Work on final projects
-   -
-# Classes on Oct 26 and 28
-   - MP3C=B due Oct 28
-   - work on final project
-   - I'll answer questions/provide help with gcp/MP3 
-   - Missing/Incomplete Miniproject 3 part A: dschult9=0,hkitts2=0,jmatloc1=820,mmohandi=0,psherri1=597,rstewa35=0,spatel91=0,tainley=0
-   - Missing Miniproject 2: ahughe51=0, rstewa35=1, spatel91=0
-   - Missing Miniproject 3 part B:abanks19
+   - Missing Miniproject 2: rstewa35=1, spatel91=0
+   - Missing Miniproject 3 part A: dschult9=0,hkitts2=0,jmatloc1=820,mmohandi=0,rstewa35=0,spatel91=0,tainley=0
+   - Missing Miniproject 3 part B: abanks19
 ahende39
 ahughe51
 asuther8
-azou
 dlomax
 dmaioran
 dschult9
@@ -25,9 +19,7 @@ jhills
 jmatloc1
 mmohandi
 mrm634
-mxw557
 ppatel91
-psherri1
 pvelas
 rbray2
 reehsemm
@@ -35,8 +27,11 @@ rstewa35
 rwill148
 spatel91
 tainley
-wcoar
-yli53
+
+# Classes on Oct 26 and 28
+   - MP3C=B due Oct 28
+   - work on final project
+   - I'll answer questions/provide help with gcp/MP3 
 
 
 # Class on Oct 21
