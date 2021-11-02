@@ -1,28 +1,26 @@
-# Classes on Nov 2
+# Classes on Nov 4
    - Introduce MP3C
+
+# Classes on Nov 2
    - Questions
    - Work on final projects
    - Missing Miniproject 2: rstewa35=1, spatel91=0
-   - Missing Miniproject 3 part A: dschult9=0,hkitts2=0,jmatloc1=820,mmohandi=0,rstewa35=0,spatel91=0,tainley=0
+   - Missing Miniproject 3 part A: dschult9=0,hkitts2=0,mmohandi=0,rstewa35=0,spatel91=0,tainley=0
    - Missing Miniproject 3 part B: abanks19
 ahende39
 ahughe51
 asuther8
-dlomax
 dmaioran
 dschult9
 fxie6
-fxu11
 hkitts2
 jhammer3
 jhills
 jmatloc1
 mmohandi
-mrm634
 ppatel91
 pvelas
 rbray2
-reehsemm
 rstewa35
 rwill148
 spatel91
