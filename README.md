@@ -6,9 +6,9 @@
    - Questions
    - Work on final projects
    - Missing Miniproject 2: rstewa35=1, spatel91=0
-   - Missing Miniproject 3 part A: dschult9=0,hkitts2=0,mmohandi=0,rstewa35=0,spatel91=0,tainley=0
-   - Missing Miniproject 3 part B: abanks19
-ahende39
+   - Missing Miniproject 3 part A: dschult9=0,hkitts2=0,mmohandi=0,spatel91=0,tainley=0
+   - Missing Miniproject 3 part B: Please recall a) **docker**, b) **home folder**, c) files named ** yournetid.Object.stage.frame#.png**
+abanks19
 ahughe51
 asuther8
 dmaioran
@@ -16,14 +16,10 @@ dschult9
 fxie6
 hkitts2
 jhammer3
-jhills
 jmatloc1
 mmohandi
-ppatel91
-pvelas
 rbray2
 rstewa35
-rwill148
 spatel91
 tainley
 
