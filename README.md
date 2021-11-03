@@ -7,7 +7,7 @@
    - Work on final projects
    - Missing Miniproject 2: rstewa35=1, spatel91=0
    - Missing Miniproject 3 part A: dschult9=0,hkitts2=0,mmohandi=0,spatel91=0,tainley=0
-   - Missing Miniproject 3 part B: Please recall a) **docker**, b) **home folder**, c) files named ** yournetid.Object.stage.frame#.png**
+   - Missing Miniproject 3 part B - has to be a) in your **docker**, b) in your **home folder**, c) files named **yournetid.Object.stage.frame#.png**:
 abanks19
 ahughe51
 asuther8
