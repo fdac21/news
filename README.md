@@ -31,6 +31,7 @@
    - Work on final projects
 
 # Classes on Nov 4
+   - ***!!!MP3C Now Operational!!!***
    - Introduce MP3C Due Nov 11
    - Please comment on issue #9 regarding your preferred project presentation
 
