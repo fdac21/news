@@ -1,3 +1,29 @@
+# Presentations on Dec 9
+   - LeagueOfMythics
+   - College Football Data Modeling
+   - WhyJohnnyCantWinMedals
+   - GPU-Market
+   - Superhero group
+   - SevenSeas
+
+# Presentations on Nov 30
+   - MovieBoxOfficePrediction
+   - Fantasty football group
+   - LPC
+   - VideoGame_Analysis
+   - YoutubeClickbait
+   - ZillowAnalysis
+   - LocationAnalysis
+
+# Presentations on Nov 23
+   -  Spotify
+   -  SteamScraper
+   -  DIR
+   -  EAWOC
+   
+# Presentations on Nov 18
+   - FunnyNotFunny
+
 # Classes on Nov 11
    - Introduce MP3D
 
