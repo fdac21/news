@@ -1,5 +1,11 @@
+# Classes on Nov 11
+   - Introduce MP3D
+
+# Classes on Nov 9
+   - Work on final projects
+
 # Classes on Nov 4
-   - Introduce MP3C
+   - Introduce MP3C Due Nov 11
    - Please comment on issue #9 regarding your preferred project presentation
 
 # Classes on Nov 2
