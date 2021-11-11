@@ -26,6 +26,18 @@
 
 # Classes on Nov 11
    - Introduce MP3D
+   - MISSING MP3A: dschult9=0,tainley=0
+   - MISSING MP3B: abanks19
+ahughe51
+asuther8
+dmaioran
+dschult9
+fxie6
+jhammer3
+mmohandi
+rrusitan
+tainley
+   - MISSING MP3C: https://github.com/fdac21/Miniproject3/blob/master/missingC.md
 
 # Classes on Nov 9
    - Work on final projects
