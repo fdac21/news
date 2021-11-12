@@ -34,10 +34,9 @@ dmaioran
 dschult9
 fxie6
 jhammer3
-mmohandi
-rrusitan
 tainley
-   - MISSING MP3C: https://github.com/fdac21/Miniproject3/blob/master/missingC.md
+   - MISSING MP3C: All done: Thank you!
+
 
 # Classes on Nov 9
    - Work on final projects
