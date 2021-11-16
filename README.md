@@ -5,6 +5,7 @@
    - GPU-Market
    - Superhero group
    - SevenSeas
+   - SteamScraper
 
 # Presentations on Nov 30
    - MovieBoxOfficePrediction
@@ -17,14 +18,13 @@
 
 # Presentations on Nov 23
    -  Spotify
-   -  SteamScraper
    -  DIR
    -  EAWOC
    
 # Presentations on Nov 18
    - FunnyNotFunny
    
-# Classes on Nov 13
+# Classes on Nov 16
    - Finish describing MP3D: data is ready: due Dec 9
 
 # Classes on Nov 11
