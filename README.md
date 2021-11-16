@@ -23,6 +23,9 @@
    
 # Presentations on Nov 18
    - FunnyNotFunny
+   
+# Classes on Nov 13
+   - Finish describing MP3D: data is ready: due Dec 9
 
 # Classes on Nov 11
    - Introduce MP3D
