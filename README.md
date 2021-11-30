@@ -1,3 +1,8 @@
+# TNVoice (TN Volunteer Online Instructor & Course Evaluations)
+    - https://utk.campuslabs.com
+    - Please let me know how you'd like to improve this course
+
+
 # Presentations on Dec 9
    - LeagueOfMythics
    - College Football Data Modeling
@@ -6,11 +11,12 @@
    - Superhero group
    - SevenSeas
    - SteamScraper
+   - LPC
+
 
 # Presentations on Nov 30
    - MovieBoxOfficePrediction
    - Fantasty football group
-   - LPC
    - VideoGame_Analysis
    - YoutubeClickbait
    - ZillowAnalysis
