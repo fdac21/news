@@ -2,6 +2,15 @@
     - https://utk.campuslabs.com
     - Please let me know how you'd like to improve this course
 
+# Final Project Reports (Due Dec 9)
+  Similar to proposals, but note additional sections:
+  - Objective (research question)
+  - Data that was used: how obtained, how processed, integrated, and validated
+  - What models or algorithms were used
+  - Results: A description of the results
+  - Primary issues encountered during the project
+  - Future work: ideas generated, improvements that would make sense, etc
+  - Org chart: rough timeline and responsibilities for each member 
 
 # Presentations on Dec 9
    - LeagueOfMythics
