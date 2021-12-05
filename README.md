@@ -12,7 +12,7 @@
   - Future work: ideas generated, improvements that would make sense, etc
   - Org chart: rough timeline and responsibilities for each member 
 
-# Presentations on Dec 9
+# Presentations on Dec 9: **all these presentations will be done remotely via zoom not in class**
    - LeagueOfMythics
    - College Football Data Modeling
    - WhyJohnnyCantWinMedals
