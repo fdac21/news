@@ -13,11 +13,11 @@
   - Org chart: rough timeline and responsibilities for each member 
 
 # Presentations on Dec 9: **all these presentations will be done remotely via zoom not in class**
+   - Superhero group
    - LeagueOfMythics
    - College Football Data Modeling
    - WhyJohnnyCantWinMedals
-   - GPU-Market
-   - Superhero group
+   - GPU-Market 
    - SevenSeas
    - SteamScraper
    - LPC
