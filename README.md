@@ -1,3 +1,10 @@
+# Slow Server Please read
+
+   - Everyone seems to be running MP3D now, so the server is barely keeping up. Two suggestions:
+   - Please add nrow=10000 in your read.table
+       (dat=read.table("features.gz", sep=";",comment.char="",quote="",nrow=10000)
+   - if you completed MP3D, please shutdown your notebook to reduce RAM footprint (there is a large SHUTDOWN button next to each running notebook if yo select "running" tab)
+
 # TNVoice (TN Volunteer Online Instructor & Course Evaluations)
     - https://utk.campuslabs.com
     - Please let me know how you'd like to improve this course
